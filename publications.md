@@ -7,7 +7,7 @@ permalink: /publications/
 ## SharpNet: Fast and Accurate Recovery of Occluding Contours in Monocular Depth Estimation
 *Michaël Ramamonjisoa and Vincent Lepetit*
 
-![Alt Text](https://github.com/MichaelRamamonjisoa/MichaelRamamonjisoa.github.io/blob/master/images/SharpNet_thumbnail.gif)
+![_config.yml]({{ site.baseurl }}/images/SharpNet_thumbnail.gif)
 
 #### Citation:
 ```markdown
